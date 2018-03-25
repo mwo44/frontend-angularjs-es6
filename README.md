@@ -1,4 +1,4 @@
-# AngularJS z ES6
+# WSB Angularjs + praca z Git'em
 
 Aby rozpocząć projekt sklonujemy repozytorium zawierające podstawową konfigurację do budowy aplikacji oraz zainstalujemy niezbędne zależności:
 
